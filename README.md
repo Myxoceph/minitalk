@@ -11,7 +11,7 @@
 ## 📸 Demo
 
 <!-- Add your demonstration GIF here -->
-![Minitalk Demo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBja2txaHEwNWwxdDUwdXprMDQzZ3N6OGQzaHVsY3JnOGJyeWlheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P7fS5EQyHLtSxV9vJh/giphy.gif)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBja2txaHEwNWwxdDUwdXprMDQzZ3N6OGQzaHVsY3JnOGJyeWlheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P7fS5EQyHLtSxV9vJh/giphy.gif" style="max-width: 100%; height: auto;" />
 
 ---
 
