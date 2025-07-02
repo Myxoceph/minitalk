@@ -10,7 +10,6 @@
 
 ## 📸 Demo
 
-<!-- Add your demonstration GIF here -->
 <img src="assets/Minitalk.gif" style="max-width: 100%; height: auto;" />
 
 ---
